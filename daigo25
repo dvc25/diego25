@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, LATINA
+https://live-normal-movistar-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b950272.m3u8?nva=1629756693&ttl=432000&ip=190.238.254.164&hash=036fe8965b4880f67ee5d
+#EXTINF:-1, WILLAX
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmp5euGtWIfd4x-O9Pqhorys)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
